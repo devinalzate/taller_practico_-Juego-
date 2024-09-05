@@ -11,7 +11,7 @@ window.addEventListener('resize', setCanvasSize);
 
 let canvasSize;
 let elementsSize;
-let level = 0;
+let level = 1;
 let lives = 3;
 
 let timeStart;
